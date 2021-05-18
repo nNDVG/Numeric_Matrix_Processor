@@ -3,7 +3,7 @@
 ## Description
 ### A program for various operations on matrices, namely:
  - multiply a matrix by a number and display the result
- - multiply mattix by matrix
+ - multiply matix by matrix
  - matrix transposition
  - find the matrix determinant
  - inverse of a matrix
